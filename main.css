@@ -1,0 +1,21 @@
+h1{
+   color: rgba(33, 2, 85, 0.5);
+   font-size: 300%; 
+    
+}
+body{
+    background: linear-gradient(to right,red,yellow);
+}
+
+div{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   text-align: center;
+   top: 15%;
+   letter-spacing: 0.1cm;
+   
+}
+
+h2{
+    color: rgba(172, 5, 97, 0.856);
+   font-size: 200%;
+}
